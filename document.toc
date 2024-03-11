@@ -16,4 +16,10 @@
 \contentsline {chapter}{\numberline {2}Prydain}{5}{}%
 \contentsline {chapter}{\numberline {3}Enid}{6}{}%
 \contentsline {chapter}{\numberline {4}Cei}{8}{}%
+\contentsline {part}{\numberline {3}Přítomnost}{10}{}%
+\contentsline {section}{Sezení 1}{11}{}%
+\contentsline {part}{\numberline {4}Seznam NPC}{12}{}%
 \contentsfinish 
+\contentsline {section}{1. ostrov}{13}{}%
+\contentsline {subsection}{Hospodský}{13}{}%
+\contentsline {subsection}{Hubertus}{13}{}%
