@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.13)  11 MAR 2024 23:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.13)  11 MAR 2024 23:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2061,11 +2061,11 @@ L3 programming layer <2023-11-09>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 29731 strings out of 474267
- 601259 string characters out of 5723297
+ 29734 strings out of 474267
+ 601286 string characters out of 5723297
  1951555 words of memory out of 5000000
  50938 multiletter control sequences out of 15000+600000
- 648944 words of font info for 309 fonts, out of 8000000 for 9000
+ 649137 words of font info for 311 fonts, out of 8000000 for 9000
  1154 hyphenation exceptions out of 8191
  121i,18n,124p,1537b,1093s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/2023/texmf-dist/fonts/type1/public/gfsneohellenic/GFSNeohelleni
@@ -2078,7 +2078,7 @@ st/fonts/type1/public/kpfonts/jkpssmsc8a.pfb></opt/texlive/2023/texmf-dist/font
 s/type1/urw/bookman/ubkd8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/bo
 okman/ubkl8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/bookman/ubkli8a.
 pfb>
-Output written on document.pdf (15 pages, 2398432 bytes).
+Output written on document.pdf (15 pages, 2398437 bytes).
 PDF statistics:
  121 PDF objects out of 1000 (max. 8388607)
  76 compressed objects within 1 object stream
