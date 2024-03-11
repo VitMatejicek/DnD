@@ -1,4 +1,4 @@
-### Deník ke kampani "Padající Ostrovy"
+# Deník ke kampani "Padající Ostrovy"
 Sem si budu psát poznámky k DnD5e kampani.
 
 ## 1. Sezení
