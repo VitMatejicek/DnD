@@ -20,6 +20,7 @@
 \contentsline {section}{Sezení 1}{11}{}%
 \contentsline {section}{Sezení 2}{11}{}%
 \contentsline {section}{Sezení 3}{11}{}%
+\contentsline {section}{Sezení 4}{12}{}%
 \contentsline {part}{\numberline {4}Družina}{13}{}%
 \contentsline {section}{Enid}{14}{}%
 \contentsline {section}{Cei}{14}{}%
@@ -33,3 +34,7 @@
 \contentsline {subsection}{Hospodský}{16}{}%
 \contentsline {subsection}{Hubertus}{16}{}%
 \contentsline {subsection}{Vladova družina}{16}{}%
+\contentsline {section}{2. ostrov}{16}{}%
+\contentsline {subsection}{Trojice ([Šumění])}{16}{}%
+\contentsline {section}{3. ostrov}{16}{}%
+\contentsline {subsection}{Robin}{16}{}%
