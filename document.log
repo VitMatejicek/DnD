@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.13)  16 APR 2024 13:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.13)  30 APR 2024 10:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2028,88 +2028,108 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 449.
+Package pdftex.def Info: img/paper.jpg  used on input line 454.
 (pdftex.def)             Requested size: 597.54326pt x 845.07813pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 449.
+Package pdftex.def Info: img/paper.jpg  used on input line 454.
 (pdftex.def)             Requested size: 597.54326pt x 845.07813pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 449.
+Package pdftex.def Info: img/paper.jpg  used on input line 454.
 (pdftex.def)             Requested size: 597.54326pt x 845.07813pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 449.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 454.
 (pdftex.def)             Requested size: 597.5452pt x 43.36565pt.
  [12{/opt/texlive/2023/texmf-dist/fonts/enc/dvips/kpfonts/kpfonts-expert-sc.enc
 }{/opt/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-contour: Using 32 copies for `\v {C}\'ast\ 4' on input line 449.
-contour: Using 32 copies for `Družina' on input line 449.
+Missing character: There is no ; in font nullfont!
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 449.
+Package pdftex.def Info: img/paper.jpg  used on input line 465.
 (pdftex.def)             Requested size: 597.54326pt x 845.07813pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 449.
+Package pdftex.def Info: img/paper.jpg  used on input line 465.
 (pdftex.def)             Requested size: 597.54326pt x 845.07813pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 449.
+Package pdftex.def Info: img/paper.jpg  used on input line 465.
 (pdftex.def)             Requested size: 597.54326pt x 845.07813pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 449.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 465.
 (pdftex.def)             Requested size: 597.5452pt x 43.36565pt.
 [13
+
+]
+contour: Using 32 copies for `\v {C}\'ast\ 4' on input line 465.
+contour: Using 32 copies for `Družina' on input line 465.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 465.
+(pdftex.def)             Requested size: 597.54326pt x 845.07813pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 465.
+(pdftex.def)             Requested size: 597.54326pt x 845.07813pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 465.
+(pdftex.def)             Requested size: 597.54326pt x 845.07813pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 465.
+(pdftex.def)             Requested size: 597.5452pt x 43.36565pt.
+[14
 
 
 ]
 LaTeX Font Info:    Font shape `T1/pbk/b/it' in size <10> not available
-(Font)              Font shape `T1/pbk/db/it' tried instead on input line 454.
+(Font)              Font shape `T1/pbk/db/it' tried instead on input line 470.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <8> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 458.
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 474.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 516.
+Package pdftex.def Info: img/paper.jpg  used on input line 532.
 (pdftex.def)             Requested size: 597.54326pt x 845.07813pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 516.
+Package pdftex.def Info: img/paper.jpg  used on input line 532.
 (pdftex.def)             Requested size: 597.54326pt x 845.07813pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 516.
+Package pdftex.def Info: img/paper.jpg  used on input line 532.
 (pdftex.def)             Requested size: 597.54326pt x 845.07813pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 516.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 532.
 (pdftex.def)             Requested size: 597.5452pt x 43.36565pt.
- [14
+ [15
 
 
 ]
-contour: Using 32 copies for `\v {C}\'ast\ 5' on input line 516.
-contour: Using 32 copies for `Seznam' on input line 516.
-contour: Using 32 copies for `NPC' on input line 516.
+contour: Using 32 copies for `\v {C}\'ast\ 5' on input line 532.
+contour: Using 32 copies for `Seznam' on input line 532.
+contour: Using 32 copies for `NPC' on input line 532.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 516.
+Package pdftex.def Info: img/paper.jpg  used on input line 532.
 (pdftex.def)             Requested size: 597.54326pt x 845.07813pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 516.
+Package pdftex.def Info: img/paper.jpg  used on input line 532.
 (pdftex.def)             Requested size: 597.54326pt x 845.07813pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 516.
+Package pdftex.def Info: img/paper.jpg  used on input line 532.
 (pdftex.def)             Requested size: 597.54326pt x 845.07813pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 516.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 532.
 (pdftex.def)             Requested size: 597.5452pt x 43.36565pt.
-[15
+[16
 
 
 ]
@@ -2119,21 +2139,21 @@ See the caption package documentation for explanation.
 
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 572.
+Package pdftex.def Info: img/paper.jpg  used on input line 588.
 (pdftex.def)             Requested size: 597.54326pt x 845.07813pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 572.
+Package pdftex.def Info: img/paper.jpg  used on input line 588.
 (pdftex.def)             Requested size: 597.54326pt x 845.07813pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 572.
+Package pdftex.def Info: img/paper.jpg  used on input line 588.
 (pdftex.def)             Requested size: 597.54326pt x 845.07813pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 572.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 588.
 (pdftex.def)             Requested size: 597.5452pt x 43.36565pt.
-[16
+[17
 
 
 ] (./document.aux)
@@ -2143,13 +2163,13 @@ L3 programming layer <2023-11-09>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 29842 strings out of 474267
- 603752 string characters out of 5723297
+ 29857 strings out of 474267
+ 603997 string characters out of 5723297
  1951555 words of memory out of 5000000
- 51018 multiletter control sequences out of 15000+600000
- 653165 words of font info for 324 fonts, out of 8000000 for 9000
+ 51027 multiletter control sequences out of 15000+600000
+ 653678 words of font info for 328 fonts, out of 8000000 for 9000
  1155 hyphenation exceptions out of 8191
- 121i,18n,124p,1537b,1093s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 121i,18n,124p,1537b,1253s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/2023/texmf-dist/fonts/type1/public/gfsneohellenic/GFSNeohelleni
 c-Regular.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/initials/RoyalIn
 .pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></
@@ -2163,10 +2183,10 @@ cm-super/sfss0900.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/bookman/ubk
 d8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/bookman/ubkdi8a.pfb></opt
 /texlive/2023/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb></opt/texlive/2023/
 texmf-dist/fonts/type1/urw/bookman/ubkli8a.pfb>
-Output written on document.pdf (18 pages, 2442619 bytes).
+Output written on document.pdf (19 pages, 2447770 bytes).
 PDF statistics:
- 152 PDF objects out of 1000 (max. 8388607)
- 96 compressed objects within 1 object stream
+ 156 PDF objects out of 1000 (max. 8388607)
+ 99 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  110635 words of extra memory for PDF output out of 128383 (max. 10000000)
 
